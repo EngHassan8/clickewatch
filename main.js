@@ -46,6 +46,7 @@ button2.addEventListener("click", function(){
 
 
 
+
 // button1.addEventListener("click",function(){
 //    value++
 //    heading.innerHTML = value
